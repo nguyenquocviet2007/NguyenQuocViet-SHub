@@ -7,11 +7,14 @@ After Clone Git, you need to install all dependence via npm install
 Start the server: Npm run dev
 Then test the API on Postman or any tools
 
-Method: 
+Method:
+
 **POST**: 
 * Route: http://localhost:8080/v1/api/upload - For upload xlsx file
+
 **GET**: 
 * Route: http://localhost:8080/v1/api/upload/*file_nane* - For Get the result
+
 * In the body part: 
 {
     "startTime": *start_time*,
