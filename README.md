@@ -21,7 +21,7 @@ Method:
 ## For task 2:
 The **ERD** as well as the **.sql** file  i already put in the source code
 ### ERD
-[ERD]: https://github.com/nguyenquocviet2007/NguyenQuocViet-SHub/blob/main/ERD.png?raw=true
+![ERD]:(./ERD.png)
 
 ## For task 3:
 Method: 
