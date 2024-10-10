@@ -21,7 +21,7 @@ Method:
 ## For task 2:
 The **ERD** as well as the **.sql** file  i already put in the source code
 ### ERD
-![ERD]:(./ERD.png)
+<img title="ERD" alt="ERD picture" src="./ERD.png">
 
 ## For task 3:
 Method: 
